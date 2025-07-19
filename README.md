@@ -1,4 +1,3 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Hi there 👋, I'm Mohammed Ahmed - Full Stack Developer!
@@ -29,27 +28,11 @@
 
 ---
 
-### 🚀 Projects
-- 🏨 [Hotel Booking System](https://github.com/mohammed651/hotel-booking) - Complete MERN Stack system with authentication and booking logic.
-- 💳 [Payment Gateway Integration](https://github.com/mohammed651/payment-app) - Node.js backend with Stripe/PayPal integration.
-- 💬 [Real-Time Chat App](https://github.com/mohammed651/chat-app) - Socket.io based messaging platform.
-
----
-
-### 📚 Currently Learning
-- GraphQL & Apollo Server
-- Microservices architecture with Docker
-- AWS (EC2, S3)
-
----
-
 ### 🛠 Tech Stack
 
 #### 💻 Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 
 #### 🧰 Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
@@ -65,10 +48,4 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed651&show_icons=true&theme=radical" />
-</p>
